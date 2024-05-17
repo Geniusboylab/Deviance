@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deviance - New Album by [Your Artist Name]</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Deviance</h1>
+        <h2>New Album by [Your Artist Name]</h2>
+        <p>Out May 20, 2024</p>
+    </header>
+    <section id="about">
+        <h3>About the Album</h3>
+        <p>"Deviance" is a bold and aggressive exploration of themes centered around being an outcast, embracing eccentricity, and celebrating what society often deems as unacceptable. This album shines a light on the underdogs, those who are unique and extraordinary in their defiance of social norms.</p>
+    </section>
+    <section id="tracklist">
+        <h3>Tracklist</h3>
+        <ul>
+            <li>Fuk Life</li>
+            <li>Sitting on Em</li>
+            <li>Niceout</li>
+            <li>Floating in the River</li>
+            <li>Noise</li>
+            <li>Secrets</li>
+            <li>Rick N Marty</li>
+        </ul>
+    </section>
+    <section id="media">
+        <h3>Album Artwork</h3>
+        <img src="path-to-your-album-artwork.jpg" alt="Deviance Album Artwork">
+    </section>
+    <section id="promo">
+        <h3>Promotional Media</h3>
+        <div class="promo-images">
+            <img src="path-to-your-promotional-image1.jpg" alt="Promotional Image 1">
+            <img src="path-to-your-promotional-image2.jpg" alt="Promotional Image 2">
+        </div>
+        <a href="path-to-your-teaser-video.mp4">Watch the Album Teaser Video</a>
+    </section>
+    <section id="contact">
+        <h3>Stay Connected</h3>
+        <p>Follow [Your Artist Name] on social media to stay updated on the latest news, tour dates, and exclusive content related to "Deviance."</p>
+        <ul>
+            <li><a href="#">Instagram: @yourartistname</a></li>
+            <li><a href="#">Twitter: @yourartistname</a></li>
+            <li><a href="#">Facebook: Your Artist Name</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>For business inquiries and other questions, please reach out to [Your Contact Information].</p>
+        <p>Pre-order links and exclusive content will be available soon. Stay tuned!</p>
+    </footer>
+</body>
+</html>
